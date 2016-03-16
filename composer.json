@@ -1,0 +1,13 @@
+{
+    "name": "BDM/bdm_bugfix_translatecopy",
+    "description": "bugfix_translatecopy",
+    "type": "typo3-cms-extension",
+    "version": "1.0.0",
+    "homepage": "",
+    "license": "GPL-2.0+",
+    "autoload": {
+        "psr-4": {
+            "BDM\\BdmBugfixTranslatecopy\\": "Classes/"
+        }
+    }
+}
